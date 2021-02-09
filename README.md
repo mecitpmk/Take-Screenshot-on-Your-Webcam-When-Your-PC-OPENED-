@@ -1,8 +1,14 @@
 # Send Email When Your PC Opened
 When your computer is opened, software automatically run if you do those steps:
-press WindowsLogo+R and type shell:startup
-paste this pyw file into this folder. (Dont forget to change sender,receiver mail)
 
+### First way:
+1- press WindowsLogo+R and type shell:startup
+2- paste this pyw file into this folder. (Dont forget to change sender,receiver mail)
+
+### Second way:
+Go to below  path (Change USERNAME keyword into your PC current USERNAME)
+1- C:\Users\USERNAME\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+2- paste this pyw file into this folder. (Dont forget to change sender,receiver mail)
 
 ## Attention Before Using
 Open file in edit mode and change those variables to the your current mail adress.
