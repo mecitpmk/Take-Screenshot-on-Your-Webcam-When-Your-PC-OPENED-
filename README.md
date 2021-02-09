@@ -4,10 +4,6 @@ press WindowsLogo+R and type shell:startup
 paste this pyw file into this folder. (Dont forget to change sender,receiver mail)
 
 
-## How It Looks Like
-When the program run first time it will be looks like :
-![1](https://user-images.githubusercontent.com/63451008/90455077-ad79a680-e0fd-11ea-8f17-ce65aa7366d4.PNG)
-
 ## Attention Before Using
 Open file in edit mode and change those variables to the your current mail adress.
 ### -> sender_mail = "your_sender_mail@gmail.com"
