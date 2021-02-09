@@ -14,7 +14,7 @@ Open file in edit mode and change those variables to the your current mail adres
 ## When Your Computer is Opened
 This software first of all, check your internet connection. If its stable, try to send it.
 If your connection is not available, this software check your connection for every 5 sec. And when its available software will send it.
-![2](https://user-images.githubusercontent.com/63451008/90455198-2416a400-e0fe-11ea-9851-9d73b32acaf8.PNG)
+![1](https://user-images.githubusercontent.com/63451008/90455077-ad79a680-e0fd-11ea-8f17-ce65aa7366d4.PNG)
 
 ## License
 MIT Licance
