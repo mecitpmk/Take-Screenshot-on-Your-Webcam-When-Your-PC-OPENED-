@@ -1,6 +1,10 @@
 # Send Email When Your PC Opened
 When your computer is opened, software automatically run if you do those steps:
 
+### IMPORTANT UPDATE!
+Because of the Google privacy issues, you have to activate 2-step verification process for sender e-mail. link in below. <br />
+https://exerror.com/smtplib-smtpauthenticationerror-username-and-password-not-accepted/ <br/>
+
 ### First way:
 1- press WindowsLogo+R and type shell:startup<br />
 2- paste this pyw file into this folder. (Dont forget to change sender,receiver mail)<br />
