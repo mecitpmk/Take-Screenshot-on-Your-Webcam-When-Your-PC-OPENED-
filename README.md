@@ -28,4 +28,4 @@ If your connection is not available, this software check your connection for eve
 
 
 ## License
-MIT Licance
+MIT License
